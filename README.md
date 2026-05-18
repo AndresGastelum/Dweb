@@ -1,1 +1,3 @@
-Este es el repositorio relacionado a desarrollo web del lado del servidor.
+ARMENTA ZAMUDIO MARIO CARLOS 
+RODRIGUEZ CEBREROS JUAN ANTONIO
+GASTELUM DIAZ ANDRES github.com/AndresGastelum
